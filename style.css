@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #eeeae4;
+    padding: 20px;
+}
+
+p {
+    width: 300px;
+}
